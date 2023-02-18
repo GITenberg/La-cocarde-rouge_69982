@@ -1,0 +1,32 @@
+_repo: La-cocarde-rouge_69982
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Varlet, Théo
+    gutenberg_agent_id: '55527'
+    url: http://www.gutenberg.org/2009/agents/55527
+creator:
+  author:
+    agent_name: Weyman, Stanley J
+    gutenberg_agent_id: '55526'
+    url: http://www.gutenberg.org/2009/agents/55526
+description: ''
+gutenberg_issued: '2023-02-07'
+identifiers:
+  gutenberg: '69982'
+language: fr
+pgterms:marc904: https://books.google.com/books?id=pes9AAAAYAAJ
+pgterms:marc905: 20211111003405weyman
+pgterms:marc906: '1922'
+pgterms:marc907: FR
+production_note: Laurent Vogel and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This book was produced from scanned images of public domain material from the Google
+  Books project.)
+publication_note: '  $aFrance :$bNelson, $c1922.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: La cocarde rouge
+url: http://www.gutenberg.org/ebooks/69982
